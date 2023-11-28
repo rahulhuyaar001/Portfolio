@@ -432,13 +432,13 @@ nav .fas {
     #header {
         background-image: url(images/full.png);
         background-size: 80%;
-        background-position: center bottom;
+        background-position: center 320px;
         
     }
     
 
     .header-text {
-        margin-top: 10%;
+        margin-top: 15%;
         font-size: 16px;
     }
 
